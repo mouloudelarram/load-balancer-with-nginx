@@ -180,16 +180,6 @@ docker compose down
 
 ---
 
-## 13. Création de l’archive
-
-Pour générer l’archive à soumettre :
-
-```bash
-tar -czf mini-prototype.tar.gz README.md docker-compose.yml web nginx
-```
-
----
-
 ## 14. Conclusion
 
 Ce projet met en œuvre les concepts fondamentaux de la conteneurisation et de l’orchestration avec Docker Compose. Il illustre :
